@@ -331,3 +331,33 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 450.280844 seconds.
+  path: Assets/Prefab/fRIST PERSON PLAYER Variant.prefab
+  artifactKey: Guid(2703de079841292429720e604a17ae45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/fRIST PERSON PLAYER Variant.prefab using Guid(2703de079841292429720e604a17ae45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8003720d0ef5040ee15669c6a4dd5732') in 0.158424 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 47.139787 seconds.
+  path: Assets/Prefab/fps with gun .prefab
+  artifactKey: Guid(2703de079841292429720e604a17ae45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/fps with gun .prefab using Guid(2703de079841292429720e604a17ae45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ecfc7742074ca9369e5612da0f6cb3d') in 0.019459 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.533015 seconds.
+  path: Assets/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanWhite.mat
+  artifactKey: Guid(f62b52b2d4b721742a0bc5c6b4db468d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanWhite.mat using Guid(f62b52b2d4b721742a0bc5c6b4db468d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb9a0af46aa0975ff719a70a25023e46') in 0.161675 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.432581 seconds.
+  path: Assets/Prefab/pickup cube.prefab
+  artifactKey: Guid(e7566bdaabcfdc44a8985cf5233e4c5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/pickup cube.prefab using Guid(e7566bdaabcfdc44a8985cf5233e4c5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f33e221639db4d69524bccd8b1f7ba8') in 0.021591 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.857513 seconds.
+  path: Assets/Prefab/shootable cube.prefab
+  artifactKey: Guid(30e4b3a4655852a4091df40bfabe985d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/shootable cube.prefab using Guid(30e4b3a4655852a4091df40bfabe985d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37141c0353be923e12f883c6fa425dc1') in 0.025229 seconds 
