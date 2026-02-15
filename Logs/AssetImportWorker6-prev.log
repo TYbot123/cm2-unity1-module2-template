@@ -1,0 +1,264 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.25f1 (68ef2c4f8861) revision 6876972'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26200) 64bit Core' Language: 'en' Physical Memory: 32189 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.25f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker6
+-projectPath
+C:/Users/wangy/OneDrive/Documents/GitHub/cm2-unity1-module2-template
+-logFile
+Logs/AssetImportWorker6.log
+-srvPort
+53282
+Successfully changed project path to: C:/Users/wangy/OneDrive/Documents/GitHub/cm2-unity1-module2-template
+C:/Users/wangy/OneDrive/Documents/GitHub/cm2-unity1-module2-template
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [37044] Host "[IP] 192.168.1.106 [Port] 0 [Flags] 2 [Guid] 4068199847 [EditorId] 4068199847 [Version] 1048832 [Id] WindowsEditor(7,UNDERWATERSEAOO) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [37044] Host "[IP] 192.168.1.106 [Port] 0 [Flags] 2 [Guid] 4068199847 [EditorId] 4068199847 [Version] 1048832 [Id] WindowsEditor(7,UNDERWATERSEAOO) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 22.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.25f1 (68ef2c4f8861)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.25f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/wangy/OneDrive/Documents/GitHub/cm2-unity1-module2-template/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 5070 Ti Laptop GPU (ID=0x2f58)
+    Vendor:   NVIDIA
+    VRAM:     11856 MB
+    Driver:   32.0.15.7276
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.25f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.25f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.25f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56244
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.25f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005184 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 13.74 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.434 seconds
+Domain Reload Profiling:
+	ReloadAssembly (435ms)
+		BeginReloadAssembly (66ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (293ms)
+			LoadAssemblies (63ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (78ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (20ms)
+			SetupLoadedEditorAssemblies (156ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (14ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (99ms)
+				ProcessInitializeOnLoadMethodAttributes (35ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003282 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.615 seconds
+Domain Reload Profiling:
+	ReloadAssembly (616ms)
+		BeginReloadAssembly (97ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (19ms)
+		EndReloadAssembly (439ms)
+			LoadAssemblies (65ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (122ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (30ms)
+			SetupLoadedEditorAssemblies (207ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (35ms)
+				ProcessInitializeOnLoadAttributes (139ms)
+				ProcessInitializeOnLoadMethodAttributes (18ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1372 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 16 unused Assets / (56.3 KB). Loaded Objects now: 1842.
+Memory consumption went from 65.6 MB to 65.5 MB.
+Total: 2.870900 ms (FindLiveObjects: 0.214900 ms CreateObjectMapping: 0.030800 ms MarkObjects: 2.512300 ms  DeleteObjects: 0.110900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 6429.234899 seconds.
+  path: Assets/russian_buildings/meshes/buildings_low/rus_build_9et_01_LOD2.obj
+  artifactKey: Guid(ca3819e382fe56c4c9ca4de079fb5f2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/russian_buildings/meshes/buildings_low/rus_build_9et_01_LOD2.obj using Guid(ca3819e382fe56c4c9ca4de079fb5f2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d7bb7abc3d58558eae8e90c475dfd3f') in 0.137344 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/russian_buildings/meshes/buildings_low/rus_build_9et_01b_LOD2.obj
+  artifactKey: Guid(28ddc8f7cd892d04caf59071aedc064a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/russian_buildings/meshes/buildings_low/rus_build_9et_01b_LOD2.obj using Guid(28ddc8f7cd892d04caf59071aedc064a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2299041ddc820e7248371accd296291') in 0.015108 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/russian_buildings/meshes/buildings_low/rus_build_9et_03_LOD1.obj
+  artifactKey: Guid(a1f1657bf674b014391e012a4121b6d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/russian_buildings/meshes/buildings_low/rus_build_9et_03_LOD1.obj using Guid(a1f1657bf674b014391e012a4121b6d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55f545a735d90b60fa5a9e7545d021f7') in 0.017235 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/russian_buildings/meshes/buildings_low/rus_build_9et_02b_LOD2.obj
+  artifactKey: Guid(f9e49ac4881dec14d8d0b85e809a0477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/russian_buildings/meshes/buildings_low/rus_build_9et_02b_LOD2.obj using Guid(f9e49ac4881dec14d8d0b85e809a0477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f57e080d752e38b14f99e95b8f56e447') in 0.015155 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.359752 seconds.
+  path: Assets/russian_buildings/Prefab
+  artifactKey: Guid(c10014b2aa77a4d9e84b3dbc12c6bad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/russian_buildings/Prefab using Guid(c10014b2aa77a4d9e84b3dbc12c6bad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1b390763d25459711dd1c54d06d68a5') in 0.002891 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 167.026191 seconds.
+  path: Assets/BitGem/Police_Officer_SC
+  artifactKey: Guid(976ef665a5f764bdaa1fca2019a404fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BitGem/Police_Officer_SC using Guid(976ef665a5f764bdaa1fca2019a404fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6167c298d2a5aa0bbf50fcf1ee9e17d1') in 0.003238 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.059468 seconds.
+  path: Assets/BitGem/Police_Officer_SC/Prefabs
+  artifactKey: Guid(960891c765f3042f3ac0ce8c1ba9b8a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BitGem/Police_Officer_SC/Prefabs using Guid(960891c765f3042f3ac0ce8c1ba9b8a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd193a6d1c05920abb1160bd758eaa6bb') in 0.003082 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.454587 seconds.
+  path: Assets/BitGem/Police_Officer_SC/Prefabs/cop.prefab
+  artifactKey: Guid(1d3e21374171a4335a8a51ecb8bf2d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BitGem/Police_Officer_SC/Prefabs/cop.prefab using Guid(1d3e21374171a4335a8a51ecb8bf2d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f415502dbcc7fdebaf022a0978f3798d') in 0.176905 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 31.535839 seconds.
+  path: Assets/BitGem/Police_Officer_SC/Models/cop.fbx
+  artifactKey: Guid(7946eaf817ae94ceea9ba276e998c9cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BitGem/Police_Officer_SC/Models/cop.fbx using Guid(7946eaf817ae94ceea9ba276e998c9cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70a1a12ff94a1c282a3d3ed15d41e492') in 0.113508 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.816045 seconds.
+  path: Assets/BitGem/Police_Officer_SC/Models/Materials/cop_blue.mat
+  artifactKey: Guid(dce241fd739534401bcf0bc61dac0c00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BitGem/Police_Officer_SC/Models/Materials/cop_blue.mat using Guid(dce241fd739534401bcf0bc61dac0c00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '442e426d50ef18aea07e578278eabec7') in 0.041643 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 29.082241 seconds.
+  path: Assets/BitGem/Police_Officer_SC/Prefabs/cop.prefab
+  artifactKey: Guid(1d3e21374171a4335a8a51ecb8bf2d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BitGem/Police_Officer_SC/Prefabs/cop.prefab using Guid(1d3e21374171a4335a8a51ecb8bf2d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '199cc6608831d1eb479578f1ba2de9fa') in 0.020580 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.327989 seconds.
+  path: Assets/BitGem/Police_Officer_SC/Prefabs/cop.prefab
+  artifactKey: Guid(1d3e21374171a4335a8a51ecb8bf2d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BitGem/Police_Officer_SC/Prefabs/cop.prefab using Guid(1d3e21374171a4335a8a51ecb8bf2d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c04bb83d6b2cd7db11a08678b48e1e5') in 0.016253 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23.735484 seconds.
+  path: Assets/BitGem/Police_Officer_SC/Prefabs/cop.prefab
+  artifactKey: Guid(1d3e21374171a4335a8a51ecb8bf2d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BitGem/Police_Officer_SC/Prefabs/cop.prefab using Guid(1d3e21374171a4335a8a51ecb8bf2d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3639fa2b02671aac778c18f31865252') in 0.013388 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.817231 seconds.
+  path: Assets/BitGem/Police_Officer_SC/Prefabs/cop.prefab
+  artifactKey: Guid(1d3e21374171a4335a8a51ecb8bf2d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BitGem/Police_Officer_SC/Prefabs/cop.prefab using Guid(1d3e21374171a4335a8a51ecb8bf2d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb3c93a419ba8dad8c5358da4370db07') in 0.014226 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.273021 seconds.
+  path: Assets/BitGem/Police_Officer_SC/Prefabs/cop.prefab
+  artifactKey: Guid(1d3e21374171a4335a8a51ecb8bf2d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BitGem/Police_Officer_SC/Prefabs/cop.prefab using Guid(1d3e21374171a4335a8a51ecb8bf2d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4fe6106ba0e6cdcfbf70793383c98a7') in 0.016555 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.304253 seconds.
+  path: Assets/BitGem/Police_Officer_SC/Prefabs/cop.prefab
+  artifactKey: Guid(1d3e21374171a4335a8a51ecb8bf2d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BitGem/Police_Officer_SC/Prefabs/cop.prefab using Guid(1d3e21374171a4335a8a51ecb8bf2d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '977088e8594fd144441b4cc5dac3b4ec') in 0.014072 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.387014 seconds.
+  path: Assets/BitGem/Police_Officer_SC/Prefabs/cop.prefab
+  artifactKey: Guid(1d3e21374171a4335a8a51ecb8bf2d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BitGem/Police_Officer_SC/Prefabs/cop.prefab using Guid(1d3e21374171a4335a8a51ecb8bf2d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1987996b0fc55917fb78436922570e8') in 0.012082 seconds 
