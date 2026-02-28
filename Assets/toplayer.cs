@@ -8,10 +8,14 @@ public class toplayer : MonoBehaviour
     public Transform target;
     private UnityEngine.AI.NavMeshAgent agent;
    
-    void Start()
+    void Awake()
     {
       agent = GetComponent<UnityEngine.AI.NavMeshAgent>();
 
+      if(target == null) 
+      {
+        target = GameObject.FindGameObjectWithTag("Player")?.transform;
+      }
     }
 
     // Update is called once per frame
